@@ -1,11 +1,17 @@
-h1{
+body {
+    background-color: brown;
+}
+
+h1 {
     font-size: 35px;
     text-align: center;
-   
+
 }
-h4{
-    text-align: center; 
+
+h4 {
+    text-align: center;
 }
-.card-header{
-    background-color:lightblue;
+
+.card-header {
+    background-color: lightblue;
 }
